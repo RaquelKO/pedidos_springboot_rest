@@ -10,8 +10,7 @@ Um pedido possui os seguintes atributos: codigo, valor, descricao, cliente e dat
 
 4. Desenvolver uma aplicação SpringBoot (rest) do zero que:
 
-    • Permita cadastrar um novo pedido<br> 
-    • O código do pedido deve ser único<br>
+    • Permita cadastrar um novo pedido (o código do pedido deve ser único)<br>
     • Permita listar todos os pedidos<br>
     • Permita pesquisar um pedido pelo código<br>
     • Permita remover um pedido<br>
